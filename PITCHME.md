@@ -1,17 +1,10 @@
-## Hello!
+---?image=assets/img/github-logo.png&position=left&size=55% 100%
 
-+++
+@title[Get Ready]
 
-## Hola!
+#### @size[0.6em](Get ready for some)
 
----
+<br>
 
-## Goodbye!
-
-+++
-
-## Adiós!
-
-+++ 
-
-## Lucas Heber
+## @color[#e49436](Git)Pitch
+#### Presentation @fa[magic] @color[#e49436](Magic)
