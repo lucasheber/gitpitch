@@ -1,4 +1,4 @@
----?image=assets/img/github-logo.png&position=left&size=55% 100%
+---?image=assets/img/github-logo.png&position=left
 
 @title[Get Ready]
 
