@@ -1,6 +1,6 @@
 # Lucas Heber
 
-# Imagem Lucas
+# Imagem
 
 ---?image=assets/img/github-logo.png&position=left
 
