@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+# Lucas Heber
+
 ---?image=assets/img/github-logo.png&position=left
-=======
----?image=assets/img/github-logo.png&position=center&size=35% 100%
->>>>>>> 027556e41cfe0bc4de4cd22c1a005c49f907386c
 
 @title[Get Ready]
 
